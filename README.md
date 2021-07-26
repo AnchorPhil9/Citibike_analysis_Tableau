@@ -1,4 +1,6 @@
 # Citibikes with Tableau
+### Note about Tableau
+Due to some **technical mishaps with Tableau Public**, we have opted to use **Tableau Desktop** for this Challenge. Hence, that is why we have uploaded a Tableau workbook to this repository.
 
 ## Intro
 We were asked by Des Moines stakeholders to conduct an analysis of 2019 bike trips with Citibike to see if bike-sharing is a viable investment or not.
